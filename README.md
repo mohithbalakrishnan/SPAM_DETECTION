@@ -230,17 +230,7 @@ User interface for real-time SMS spam prediction.
 ![Streamlit UI](screen_shots/ui4.png)
 ---
 
-🚀 Future Improvements
 
-Use Deep Learning (LSTM / BERT)
-
-Improve model accuracy
-
-Add email spam detection
-
-Deploy on cloud (AWS / Render / HuggingFace)
-
-Add authentication system
 
 
 
