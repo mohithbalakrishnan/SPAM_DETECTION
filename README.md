@@ -211,19 +211,23 @@ Shows the training process and model performance.)
 
 ![Model_training](screen_shots/tr1.png)
 
-![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_28_59.png)
+![Model_training](screen_shots/tr2.png)
 
+![Model_training](screen_shots/tr3.png)
+
+![Model_training](screen_shots/tr4.png)
 ---
 
 ### 🌐 Streamlit UI
 User interface for real-time SMS spam prediction.
 
-![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_32_25.png)
+![Streamlit UI](screen_shots/ui1.png)
 
-![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_33_38.png)
+![Streamlit UI](screen_shots/ui2.png)
 
-![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_35_50.png)
+![Streamlit UI](screen_shots/ui3.png)
 
+![Streamlit UI](screen_shots/ui4.png)
 ---
 
 🚀 Future Improvements
