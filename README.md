@@ -24,7 +24,8 @@ Word2Vec word embeddings for semantic understanding
 
 Hybrid feature engineering (TF-IDF + Word2Vec)
 
-Logistic Regression classification model
+Logistic Regression classification model 
+### (achived 95% accuracy) by using TF-IDF+WORD@VEC FOR TEXT PREPROCESSING
 
 Interactive Streamlit web application
 
@@ -159,7 +160,7 @@ The trained model is deployed using Streamlit, allowing users to input SMS messa
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/sms-spam-detection.git
+git clone https://github.com/mohithbalakrishnan/SPAM_DETECTION.git
 cd sms-spam-detection
 
 
@@ -208,22 +209,22 @@ Output:
 ### 🧠 Model Training Output
 Shows the training process and model performance.
 
-![Model Training]()
+![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_26_49.png)
 
----
+![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_28_20.png)
 
-### 📊 Confusion Matrix
-Evaluation of model performance using confusion matrix.
-
-![Confusion Matrix]()
+![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_28_59.png)
 
 ---
 
 ### 🌐 Streamlit UI
 User interface for real-time SMS spam prediction.
 
-![Streamlit UI]()
+![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_32_25.png)
 
+![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_33_38.png)
+
+![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_35_50.png)
 
 ---
 
@@ -253,7 +254,7 @@ Machine Learning & AI Enthusiast
 
 🔗 Connect With Me
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/mohithbalakrishnan
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/mohith_b
 
