@@ -207,11 +207,9 @@ Output:
 ## 📸 Screenshots
 
 ### 🧠 Model Training Output
-Shows the training process and model performance.
+Shows the training process and model performance.)
 
-![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_26_49.png)
-
-![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_28_20.png)
+![Model_training](screen_shots/tr1.png)
 
 ![Model Training](screen_shots/Untitled8.ipynb - Colab - Google Chrome 06-06-2026 21_28_59.png)
 
