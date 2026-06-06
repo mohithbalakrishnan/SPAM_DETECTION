@@ -25,7 +25,7 @@ Word2Vec word embeddings for semantic understanding
 Hybrid feature engineering (TF-IDF + Word2Vec)
 
 Logistic Regression classification model 
-### (achived 95% accuracy) by using TF-IDF+WORD@VEC FOR TEXT PREPROCESSING
+### (Achived 95% accuracy) by using TF-IDF+WORD@VEC FOR TEXT PREPROCESSING
 
 Interactive Streamlit web application
 
@@ -220,11 +220,11 @@ Shows the training process and model performance.
 ### 🌐 Streamlit UI
 User interface for real-time SMS spam prediction.
 
-![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_32_25.png)
+![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_32_25.png)
 
-![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_33_38.png)
+![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_33_38.png)
 
-![Streamlit UI](screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_35_50.png)
+![Streamlit UI]!(screen_shots/Spam Detection System and 1 more page - Personal - Microsoft​ Edge 06-06-2026 21_35_50.png)
 
 ---
 
